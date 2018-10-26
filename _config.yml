@@ -5,9 +5,14 @@ baseurl: ""
 url: "https://dev.coderic.co.ve"
 twitter_username: CodericDev
 github_username:  CodericDev
-
+author: Coderic
+logo: /images/logo43.png
+lang: es
 markdown: kramdown
 remote_theme: Coderic/coderic-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
