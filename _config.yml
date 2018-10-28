@@ -3,12 +3,16 @@ email: info@coderic.co.ve
 description: Corporacion Orientada al Desarrollo Estratégico de Recursos de Información Comercial
 baseurl: ""
 url: "https://dev.coderic.co.ve"
-twitter_username: CodericDev
-github_username:  CodericDev
+disqus: coderic
+google_analytics: UA-628256-8
+facebook:
+    app_id: 
+    version: v3.2
 author: Coderic
 logo: /images/logo43.png
 lang: es
 markdown: kramdown
+include: [_redirects, _headers]
 remote_theme: Coderic/coderic-theme
 plugins:
   - jekyll-feed
