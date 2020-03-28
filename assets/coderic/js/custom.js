@@ -282,7 +282,7 @@ jQuery(document).ready(function($) {
         
         // FitVids
         
-        if ( $().fitVids ) { $("#content,#footer,#slider:not(.layerslider-wrap),.landing-offer-media").fitVids( { customSelector: "iframe[src^='http://www.dailymotion.com/embed']"} ); }
+        if ( $().fitVids ) { $("#content,#footer,#slider:not(.layerslider-wrap),.landing-offer-media").fitVids( { customSelector: "iframe[src^='https://www.dailymotion.com/embed']"} ); }
         
         
         // prettyPhoto

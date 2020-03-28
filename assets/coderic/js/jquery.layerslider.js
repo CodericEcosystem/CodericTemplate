@@ -4,15 +4,15 @@
 	*
 	* (c) 2011-2013 George Krupa, John Gera & Kreatura Media
 	*
-	* web:					http://kreaturamedia.com/
-	* Facebook: 			http://facebook.com/kreaturamedia/
-	* standalone version: 	http://kreaturamedia.com/codecanyon/plugins/layerslider/
-	* WordPress version: 	http://wordpress.kreatura.hu/layersliderwp/
+	* web:					https://kreaturamedia.com/
+	* Facebook: 			https://facebook.com/kreaturamedia/
+	* standalone version: 	https://kreaturamedia.com/codecanyon/plugins/layerslider/
+	* WordPress version: 	https://wordpress.kreatura.hu/layersliderwp/
 	* email: 				contact<AT>kreaturamedia<DOT>com
 	*
 	* Licenses:
 	*
-	* http://codecanyon.net/licenses/
+	* https://codecanyon.net/licenses/
 */
 
 
