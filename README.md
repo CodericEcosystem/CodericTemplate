@@ -1,7 +1,9 @@
 ---
-layout: default-es
-title: Coderic
+layout: pagina
+title: Ecosystem
 permalink: /
+canonical_url: https://schema.coderic.net/
+sitemap: false
 ---
 # Coderic Ecosystem
 ## ¿Qué estamos haciendo?
