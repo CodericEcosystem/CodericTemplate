@@ -17,7 +17,7 @@ Esto nos lleva a la necesidad de establecer un núcleo central de integración y
 
 No nos lucramos de ello, por el contrario, utilizamos los recursos desarrollados entre todos. Nuestro papel respecto a esta necesidad (y otras relacionadas) es la integración y el desarrollo de ingeniería de software.
 
+## Invitación
+
 Es un placer, para mi, y un honor, extenderle una invitación a ser parte de nuestro proyecto, y a beneficiarse de la tecnología que estaremos desarrollando, en un marco de cooperación y participación activa, para establecer un desarrollo inteligente, sostenible y estable que pueda satisfacer la necesidad del mercado que demanda sus productos servicios que estén relacionados con el trabajo que estaremos haciendo.
 Así mismo sus desarrolladores podrán proponer ideas y cambios, que nos ayuden a mejorar las aplicaciones que estaremos desarrollando, así como los desarrolladores de las demás empresas participantes, lo cual nos dará una fuerza de desarrollo realmente significativa.
-
-## Cuál es la propuesta
