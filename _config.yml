@@ -8,9 +8,3 @@ author: Coderic
 logo: https://coderic.net/assets/coderic/images/logo43.png
 lang: es
 remote_theme: CodericEcosystem/CodericTheme
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
