@@ -1,25 +1,19 @@
 ---
 layout: pagina
-title: Ecosystem
+title: Coderic Template
 permalink: /
 canonical_url: https://schema.coderic.net/
 sitemap: false
 ---
-# Coderic Ecosystem
-## ¿Qué estamos haciendo?
+# Lorem ipsum dolor sit amet
+## Aliquam ut mauris tellus
 
-Entendemos que desarrollar un módulo de facturación electrónica para cada una de las aplicaciones es un trabajo complejo, y que requiere de un equipo significativo, lo que nos lleva al hecho de que es absurdo que cada proveedor tecnológico deba desarrollar el mismo módulo, cuando todas tienen entre sí, las mismas necesidades.
-El asunto de la facturación electrónica será una tendencia reglamentaria que será una necesidad internacional, por lo que esta necesidad no se limita a Colombia, sino a muchos países.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae leo vestibulum, convallis augue nec, ullamcorper turpis. Fusce sed metus at eros sollicitudin fermentum. Nulla non sodales arcu, at consectetur velit. Donec aliquam lectus diam, eget porta velit sollicitudin vel. Maecenas dui dolor, tempor ut rutrum non, luctus et magna. Curabitur eget tellus eget dolor tincidunt interdum. Aliquam nisi lacus, sagittis eu neque eget, mattis pharetra diam. Mauris at justo eros. Donec convallis ullamcorper felis, et semper arcu rutrum ullamcorper. Sed aliquam ipsum sed erat consectetur vehicula. Cras at libero at mi bibendum condimentum quis vel nunc. Pellentesque condimentum, nulla eu finibus facilisis, libero tortor accumsan dui, sed ultricies elit ex a enim. Pellentesque non mi augue. Duis eu purus mauris.
 
-La naturaleza de este tipo de integración es que sea de software libre, por varios motivos, el primero es que hay mucho trabajo y muchas variantes según cada proveedor tecnológico, y según cada nación, lo que hace que el trabajo complejo, además de las variantes del tipo de software a integrar y asuntos de internacionalización.
+Aliquam ut mauris tellus. Etiam et interdum erat, in lacinia felis. Nunc sodales, lacus eu eleifend blandit, justo felis feugiat mauris, sed sodales neque justo ut turpis. Donec rhoncus, turpis sed scelerisque dapibus, justo odio facilisis nisi, nec blandit mi purus sed turpis. Sed porta molestie felis et sodales. Proin a accumsan velit, sed convallis ipsum. Fusce luctus purus elit, et commodo elit condimentum vel. Curabitur lectus eros, finibus at rutrum id, laoreet sit amet felis. Suspendisse vel turpis eu lorem condimentum efficitur nec vitae sapien. Pellentesque auctor tellus ante, non auctor felis convallis non. Sed at placerat mi. Aenean euismod arcu at est tempus, non dictum sapien sagittis. Morbi eget purus consectetur velit rutrum ultricies sed ut massa.
 
-Esto nos lleva a la necesidad de establecer un núcleo central de integración y desarrollo.Nosotros Coderic, no nos dedicamos a la facturación, ni nos dedicamos a comercializar módulos, nosotros nos dedicamos a crear ecosistemas tecnológicos, como este, lo cual permite que podamos desarrollar software libre y accesible, al alcance de todos. Tal como lo enuncia la misión de Coderic Ecosistemas:
+Duis gravida enim vel fringilla rhoncus. Donec porttitor blandit tincidunt. Cras rutrum ut tellus a interdum. Praesent interdum quam a eleifend auctor. Curabitur vehicula orci hendrerit viverra dignissim. Nunc ante ligula, malesuada ac scelerisque id, rutrum sit amet turpis. Aliquam fringilla luctus magna, id consequat risus ullamcorper et. Nulla sit amet arcu et dui suscipit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras et posuere ex. Nunc luctus, risus id elementum finibus, lacus velit imperdiet mi, sit amet laoreet erat tellus non magna. Curabitur sit amet lectus arcu. Nam fringilla luctus risus. Nulla maximus magna non lorem mattis sollicitudin. Morbi at nunc eleifend, tempor eros nec, ultrices nisl.
 
->Nuestros ecosistemas tecnológicos son nuestra exposición al mundo de lo que hacemos ofreciendo herramientas e integración al alcance de todos.
+Sed et consequat ante. Morbi scelerisque eros lacus, sed pulvinar augue pellentesque in. Pellentesque ut turpis ac dui maximus pharetra a vel ipsum. Duis lorem magna, condimentum in odio a, tempor tempor mi. Aliquam ornare leo at porta blandit. In ornare eros nunc, et dictum ante bibendum vitae. Maecenas magna lectus, venenatis eget est eget, finibus pellentesque elit. Nunc facilisis arcu sed mauris facilisis feugiat. Ut nibh ipsum, semper vel mi nec, congue hendrerit ligula. Etiam ac egestas urna, ac commodo urna. Pellentesque eget ante vestibulum sapien molestie dapibus. Nulla a malesuada ante. Sed hendrerit finibus felis sed gravida. Nulla congue eros nec risus congue mattis. Ut mi arcu, maximus eget lobortis efficitur, fermentum congue orci. Nullam ullamcorper augue eu urna tincidunt, finibus aliquet lorem luctus.
 
-No nos lucramos de ello, por el contrario, utilizamos los recursos desarrollados entre todos. Nuestro papel respecto a esta necesidad (y otras relacionadas) es la integración y el desarrollo de ingeniería de software.
-
-## Invitación
-
-Es un placer, para mi, y un honor, extenderle una invitación a ser parte de nuestro proyecto, y a beneficiarse de la tecnología que estaremos desarrollando, en un marco de cooperación y participación activa, para establecer un desarrollo inteligente, sostenible y estable que pueda satisfacer la necesidad del mercado que demanda sus productos servicios que estén relacionados con el trabajo que estaremos haciendo.
-Así mismo sus desarrolladores podrán proponer ideas y cambios, que nos ayuden a mejorar las aplicaciones que estaremos desarrollando, así como los desarrolladores de las demás empresas participantes, lo cual nos dará una fuerza de desarrollo realmente significativa.
+In tempus cursus augue id cursus. Morbi vestibulum, elit id malesuada ornare, arcu metus mattis mauris, id fermentum nunc odio at justo. Proin ornare nulla nisl, sed molestie massa lobortis vel. Vivamus dictum, dolor sed sagittis porttitor, sem augue consequat mauris, sit amet tempor lacus dolor at augue. Nulla porta tempus neque a sodales. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin hendrerit aliquam elit. Morbi sit amet enim vitae nulla pellentesque dictum vel et velit. Vestibulum gravida nunc non mi consequat, sit amet iaculis mauris iaculis. Ut quis purus eu nisi commodo tempus.
